@@ -1,0 +1,32 @@
+// out: ../css/table-filter
+.table-filter {
+    .no-result {
+        text-align: center;
+    }
+    
+    .form-control {
+        &[disabled] {
+            background-color: transparent;
+            border-color: transparent;
+            cursor: auto;
+            box-shadow: none;
+        }
+    }
+    .form-control[disabled]::-webkit-input-placeholder {
+        color: #333;
+    } 
+    .form-control[disabled]::-moz-placeholder {
+        color: #333;
+    }
+    .form-control[disabled]:-ms-input-placeholder {
+        color: #333;
+    }
+
+    & > thead {
+        & > tr {
+            & > th {
+                vertical-align: middle;
+            }
+        }
+    }  
+}

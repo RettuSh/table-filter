@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "less.compile": {
+        "compress":  false,  // true => remove surplus whitespace
+        "sourceMap": true,  // true => generate source maps (.css.map files)
+        "out":       false // false => DON'T output .css files (overridable per-file, see below)
+    }
+}
