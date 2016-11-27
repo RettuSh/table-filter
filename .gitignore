@@ -1,0 +1,4 @@
+bootstrap.*
+/fonts
+/fonts/*
+.vscode
