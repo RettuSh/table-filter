@@ -37,6 +37,7 @@ Have a bug or a feature request? [Please open a new issue](https://github.com/Re
 Adrian Cieślak
 - <https://twitter.com/RettuSh>
 - <https://github.com/RettuSh>
+- <http://www.goldenline.pl/adrian-cieslak5/>
 
 ## Copyright and license
 
